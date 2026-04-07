@@ -192,7 +192,7 @@ kemudian masukan yang ke empat:
 ```bash
 1
 ```
-maka keluarannya seperti berikut ini, dan program akan keluar:
+maka keluarannya seperti berikut ini, dan program akan keluar:2
 ```bash
 *
 2
@@ -224,6 +224,6 @@ Presentasikan pekerjaan anda dalam sebuah video. Pada presentasi:
 ## Submissions:
 
 1. t02_01.c
-2. t02_02.c
+2. t02_02.c2
 3. t02_03.c
 4. changelog.txt
